@@ -9,13 +9,10 @@ CBS adalah alat hacking untuk menjalankan tools apapun ( mendukung semua bahasa 
    git clone https://github/adjidev/cbs
    ```
 
-   ```bash
-   pip install adjidev-cbs
-   ```
-
 2. Setelah itu jalankan tools nya
+   
    ```bash
-   cbs --help
+   cd cbs && cbs --help
    ```
    - Untuk melihat versinya
    ```bash
