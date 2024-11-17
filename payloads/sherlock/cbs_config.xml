@@ -1,0 +1,10 @@
+<cbs_settings>
+    <cbs_setting>
+        <cmd>sherlock</cmd>
+        <description>Temukan username dari berbagai sosial media</description>
+        <execute>python sherlock.py</execute>
+        <args>--search {args}</args>
+        <author>adjidev</author>
+        <version>0.0.1</version>
+    </cbs_setting>
+</cbs_settings>

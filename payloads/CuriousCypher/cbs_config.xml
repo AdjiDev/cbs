@@ -1,0 +1,9 @@
+<cbs_settings>
+    <cbs_setting>
+        <cmd>crackhash</cmd>
+        <description>Mencoba menebak password dengan hybrid attack</description>
+        <execute>python main.py</execute>
+        <author>adjidev</author>
+        <version>0.0.1</version>
+    </cbs_setting>
+</cbs_settings>
